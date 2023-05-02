@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T21:36:07.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vSbGvTGYo8vEfGFv2CIq" version="21.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-02T21:59:13.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0tnXwA-WIORGHWIZi2-Y" version="21.2.4" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1120" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="WINjAcvW5h-44KgiYsHn-29" value="Date_of_join" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
           <mxGeometry x="660" y="150" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WINjAcvW5h-44KgiYsHn-32" value="Qualification" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
-          <mxGeometry x="660" y="205" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WINjAcvW5h-44KgiYsHn-33" value="Account_Balance" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
           <mxGeometry x="60" y="460" width="120" height="40" as="geometry" />
@@ -176,10 +173,10 @@
             <mxPoint x="800" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WINjAcvW5h-44KgiYsHn-82" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WINjAcvW5h-44KgiYsHn-21" target="WINjAcvW5h-44KgiYsHn-32" edge="1">
+        <mxCell id="WINjAcvW5h-44KgiYsHn-82" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WINjAcvW5h-44KgiYsHn-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="210" as="sourcePoint" />
-            <mxPoint x="800" y="210" as="targetPoint" />
+            <mxPoint x="660" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WINjAcvW5h-44KgiYsHn-83" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WINjAcvW5h-44KgiYsHn-21" target="WINjAcvW5h-44KgiYsHn-27" edge="1">
@@ -469,6 +466,9 @@
         </mxCell>
         <mxCell id="mLR-P2IpjJweAXhEsMOe-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ER DIAGRAM FOR SBI BANK MANAGEMENT SYSTEM&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="113" y="20" width="625" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2eoOif4scYlNMa7XOarm-1" value="Qualification" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="660" y="205" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
